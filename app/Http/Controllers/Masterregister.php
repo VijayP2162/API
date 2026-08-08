@@ -13,4 +13,6 @@ class Masterregister extends Controller
     {
         return view('master_register');
     }
+
+   
 }
